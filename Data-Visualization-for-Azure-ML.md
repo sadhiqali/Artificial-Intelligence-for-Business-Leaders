@@ -9,6 +9,20 @@ Intelligence is based on the premise that an informed decision can be taken by t
 - Data Matrix, e.g numerical matrix, crosstabs
 - Document dat: text documents - term frequency vector
 - Transaction data
-
 ![Record Data](https://miro.medium.com/max/1250/1*yYV016vKIBM_R2iSNaLufQ.png)
-Source: Introduction to Data Mining — Pang-Ning Tan, Michael Steinbach, Vipin Kumar
+      Source: Introduction to Data Mining — Pang-Ning Tan, Michael Steinbach, Vipin Kumar
+
+# Graph and Network
+- World Wide Web
+- Social or Information Networks
+- Molecular Structures
+![Graph and Network](https://miro.medium.com/max/1250/1*7bFifqQEKKLCfbJFVmEYgQ.png)
+      Source: Introduction to Data Mining — Pang-Ning Tan, Michael Steinbach, Vipin Kumar
+      
+# Ordered
+- Video Data: Sequence of Images
+- Temporal Data: Time-Series
+- Sequential Data: Transaction Sequences
+- Genetic Sequence Data
+![Ordered Data](https://miro.medium.com/max/1250/1*yVFaD-VveR8n2FmkKP7i0A.png)
+      Source: Introduction to Data Mining — Pang-Ning Tan, Michael Steinbach, Vipin Kumar
