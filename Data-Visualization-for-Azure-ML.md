@@ -5,10 +5,10 @@ Intelligence is based on the premise that an informed decision can be taken by t
 ## Types of Data Sets
 
 # Record
-Relational records
-Data Matrix, e.g numerical matrix, crosstabs
-Document dat: text documents - term frequency vector
-Transaction data
+- Relational records
+- Data Matrix, e.g numerical matrix, crosstabs
+- Document dat: text documents - term frequency vector
+- Transaction data
 
 ![Record Data](https://miro.medium.com/max/1250/1*yYV016vKIBM_R2iSNaLufQ.png)
 Source: Introduction to Data Mining — Pang-Ning Tan, Michael Steinbach, Vipin Kumar
