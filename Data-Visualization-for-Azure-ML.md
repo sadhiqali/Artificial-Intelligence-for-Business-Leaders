@@ -26,3 +26,8 @@ Intelligence is based on the premise that an informed decision can be taken by t
 - Genetic Sequence Data
 ![Ordered Data](https://miro.medium.com/max/1250/1*yVFaD-VveR8n2FmkKP7i0A.png)
       Source: Introduction to Data Mining — Pang-Ning Tan, Michael Steinbach, Vipin Kumar
+
+# Spatial, Image and Multimedia
+- Spatial Data: Maps
+- Image Data
+- Video Data
